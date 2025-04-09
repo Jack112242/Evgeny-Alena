@@ -270,7 +270,7 @@
         <!-- Форма Google Forms -->
         <form 
             id="weddingForm" 
-            action="https://docs.google.com/forms/d/e/1FaBZ0YkzT34i9HkfLm8l4R53iwbk6NDOxDtTggkG3Hg/formResponse" 
+            action="https://docs.google.com/forms/d/e/1g1ndimbGG8XNqyxXWqLiHPI6XfbRwYQuBRwCVyXRkDI/formResponse" 
             method="POST"
             target="_blank"
         >
@@ -280,7 +280,7 @@
                 <input 
                     type="text" 
                     id="name" 
-                    name="entry.2005620554" 
+                    name="entry.854226878"
                     required
                     placeholder="Иван Иванов"
                 >
@@ -288,8 +288,8 @@
             <!-- Поле "Количество гостей" -->
             <div class="form-group">
                 <label for="guests">Количество гостей</label>
-                <select id="guests" name="entry.1045781291">
-                    <option value="1">1</option>
+                <select id="guests" name="entry.1045781291"> 
+                    <option value="1">1</option> 
                     <option value="2">2</option>
                     <option value="3">3</option>
                     <option value="4">4</option>
