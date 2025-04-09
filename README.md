@@ -318,7 +318,7 @@
             const name = document.getElementById('name').value;
             const guests = document.getElementById('guests').value;
             const message = document.getElementById('message').value;     
-            const botToken = '7587377421:AAGqWJlDmKDZYogVTlHP5gPddTfb7gwodqk';
+            const botToken = '+79054025010';
             const chatId = '483128250'; // Замените на ваш chat_id 
             const text = `🎉 Новый отклик на свадьбу!\nИмя: ${name}\nГостей: ${guests}\nПожелания: ${message || 'нет'}\n\nНе забудьте перезвонить: 8 (905) 402-50-10`;     
             try {
