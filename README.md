@@ -270,7 +270,7 @@
         <!-- Форма Google Forms -->
         <form 
             id="weddingForm" 
-            action="https://docs.google.com/forms/d/e/1g1ndimbGG8XNqyxXWqLiHPI6XfbRwYQuBRwCVyXRkDI/formResponse" 
+            action="https://docs.google.com/forms/d/1g1ndimbGG8XNqyxXWqLiHPI6XfbRwYQuBRwCVyXRkDI/edit" 
             method="POST"
             target="_blank"
         >
