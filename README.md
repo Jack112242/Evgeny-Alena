@@ -319,8 +319,8 @@
             const name = document.getElementById('name').value;
             const guests = document.getElementById('guests').value;
             const message = document.getElementById('message').value;     
-            const botToken = '7639592956:AAFrRGfLkxmsf9s05fGP_2ZLhVwuQJMEPGs';
-            const chatId = '@PriglashenyenasvadbyBot'; // Замените на ваш chat_id 
+            const botToken = '7587377421:AAGqWJlDmKDZYogVTlHP5gPddTfb7gwodqk';
+            const chatId = '@Priglashenye123_bot'; // Замените на ваш chat_id 
             const text = `🎉 Новый отклик на свадьбу!\nИмя: ${name}\nГостей: ${guests}\nПожелания: ${message || 'нет'}\n\nНе забудьте перезвонить: 8 (905) 402-50-10`;     
             try {
                 await fetch(`https://api.telegram.org/bot${botToken}/sendMessage?chat_id=${chatId}&text=${encodeURIComponent(text)}`);
